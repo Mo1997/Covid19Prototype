@@ -7,6 +7,10 @@ An Informative app on Covid-19 and the many ways to help prevent and keep the Ca
 4.	Seniors can request for help which will make them go public
 5.	Volunteers can search through seniors to find someone to chat with and help
 
+# Youtube Link
+https://youtu.be/4V9d3BVHCcQ
+# Figma Link
+https://www.figma.com/file/lJnBkwIaSWmf2xw0MYMkix/Covid-19-App-Copy
 # Screenshots
 
 ![image](https://user-images.githubusercontent.com/49069750/111089586-e72f5600-8502-11eb-9451-7e55841c2e7a.png)
